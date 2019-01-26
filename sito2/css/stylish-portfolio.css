@@ -369,3 +369,15 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+#sentence {
+  text-align: left !important;  
+}
+
+#partecipare li {
+  text-align: left !important;  
+}
+
+#iniziativa {
+  text-align: left !important;  
+}
