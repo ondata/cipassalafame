@@ -141,16 +141,30 @@ layout: default
       </div>
     </section>
 
-<!-- tweet con ht #cipassalafame -->
-
-
+    <section class="content-section bg-light" id="press">
+      <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <h2>Rassegna Stampa</h2>
+      {% for member in site.data.press %}
+        <li>
+          <a href="{{ member.link }}">
+            {{ member.dove }}
+          </a>
+        </li>
+      {% endfor %}
+      </div>
+    </div>
+      </div>
+    </section>
 <!-- instagram feed -->
 <!--<script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-d6983f56-8fc6-4165-80bf-9ef2e9b3d241" style="margin-top:5em;"></div>-->
-
-
 
     <!-- Scroll to Top Button-->
     <a class="scroll-to-top rounded js-scroll-trigger" href="#page-top">
       <i class="fas fa-angle-up"></i>
     </a>
+
+
+
