@@ -1,11 +1,74 @@
-# Il progetto
+# [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
 
-Una **giornata intera senza mangiare** in **ricordo** di chi **ha perso la vita nel Mediterraneo**, col pensiero alle migliaia di uomini, donne e bambini ancora oggi bloccati nei lager in Libia, e in solidarietà con tutti i migranti già in Italia e in Europa, che vedono la loro ricerca di una vita migliore ostacolata da leggi ingiuste e controproducenti. Abbiamo scelto il **28 Gennaio**, in continuità con la **Giornata della Memoria**, per ricordarci che la morte e la miseria umana sono ancora qui, a pochi chilometri da noi, e non possiamo più accettarlo.
+[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
 
-> "Ho visto segni orribilmente profondi di colpi d'accetta sulle piante dei piedi di un ragazzo: glieli avevano fatti gli aguzzini nelle prigioni illegali libiche. Quando l'ho incontrato zoppicava soffrendo a dismisura. Ho visto una donna le cui parti intime erano state così ripetutamente violate durante la prigionia che non riusciva né a tenersi in piedi né a indossare alcun indumento senza provare dolore. Quando l'ho incontrata era un fantasma di se stessa. Ho visto braccia e gambe di diversi ragazzini marchiate con plastica fusa, sempre da parte degli aguzzini che ricattavano al telefono i loro familiari. Quando li ho incontrati mi mostravano i segni ma erano sollevati di essere usciti da quell'inferno sani e salvi. Il ragazzo, la donna, i ragazzini li ho conosciuti tutti nello stesso giorno, quel 14 settembre 2017 in cui come giornalista a bordo della nave Aquarius ho testimoniato il salvataggio di 371 persone di 16 nazionalità diverse. Ho le foto qui davanti delle atrocità che vi ho descritto: scelgo di non metterle, ma chiudete gli occhi e immaginatele, per favore. Le ho fatte io e io ve le sto descrivendo" -. Daniele Biella.
+## Preview
 
-[**Sito web**](https://cipassalafame.it/)
+[![Stylish Portfolio Preview](https://startbootstrap.com/assets/img/templates/stylish-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)
 
-[**Evento Facebook**](https://www.facebook.com/events/345025692894118/?active_tab=about)
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)**
 
-[**Per aderire**](https://docs.google.com/forms/d/e/1FAIpQLSeMUwlw8uZDP7_-Y0bVVswQl__tBd6uUujWbqnErYReWL3vYQ/viewform)
+## Status
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-stylish-portfolio/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-stylish-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-stylish-portfolio)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-stylish-portfolio.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-stylish-portfolio)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio?type=dev)
+
+## Download and Installation
+
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/stylish-portfolio/)
+* Install via npm: `npm i startbootstrap-stylish-portfolio`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio)
+
+## Usage
+
+### Basic Usage
+
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+
+### Advanced Usage
+
+After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+
+#### Gulp Tasks
+
+- `gulp` the default task that builds everything
+- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
+- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
+- `gulp js` minifies the themes JS file
+- `gulp vendor` copies dependencies from node_modules to the vendor directory
+
+You must have npm and Gulp installed globally on your machine in order to use these features.
+
+## Troubleshooting and Help
+
+Start Bootstrap has a public Slack channel which is a great place to ask questions about this template and all things related to Start Bootstrap.
+
+**[Click here to join the Slack channel!](https://startbootstrap-slack.herokuapp.com/)**
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/).
+
+## About
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.

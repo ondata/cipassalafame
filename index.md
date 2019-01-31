@@ -1,5 +1,7 @@
-<!DOCTYPE html>
-<html lang="it">
+---
+title: Home Page
+layout: default
+---
 
 <head>
 
@@ -11,18 +13,17 @@
   <title>#CiPassaLaFame</title>
 
   <!-- Bootstrap Core CSS -->
-  <link href="sito2/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom Fonts -->
-  <link href="sito2/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
 <link href="https://fonts.googleapis.com/css?family=Aleo" rel="stylesheet">
-
-  <link href="sito2/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+<link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
 
   <!-- Custom CSS -->
-  <link href="sito2/css/stylish-portfolio.css" rel="stylesheet">
+  <link href="css/stylish-portfolio.css" rel="stylesheet">
 <style>
 
 body {
@@ -42,8 +43,6 @@ body {
   <!-- sharing -->
 
 </head>
-
-<body id="page-top">
 
   <!-- Navigation -->
   <a class="menu-toggle rounded" href="#">
@@ -79,20 +78,6 @@ body {
   </nav>
 
 
-  <!-- Header -->
-  <!--<header class="masthead d-flex">
-    <div class="container-fluid">
-
-      <div class="container text-center">
-        <h3 style="color:white;" class="mb-5">
-          <em>A digiuno per i diritti dei migranti</em>
-        </h3>
-        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Scopri l'iniziativa</a>
-      </div>
-    </div>
-
-  </header>-->
-
   <header class="masthead d-flex">
     <div class="container text-center">
 
@@ -101,7 +86,7 @@ body {
       </h3>
       <div class="row">
         <div class="col-sm-12">
-          <img src="sito2/img/bg-masthead.png" style="width:100%">
+          <img src="img/bg-masthead.png" style="width:100%">
         </div>
       </div>
       <a class="btn btn-primary btn-xl js-scroll-trigger" href="#partecipare">Partecipa</a>
@@ -142,9 +127,6 @@ body {
       <div class="row">
         <div class="col-lg-10 mx-auto" id="partecipare">
           <h2>Come partecipare</h2>
-          <p class="lead mb-5">
-          </p>
-
           <p class="lead mb-7" >
             <ul>
               <li class="lead">Segna "partecipa" all'<b><a target="_blank" href="https://www.facebook.com/events/345025692894118/">evento su Facebook</a></b> e condividilo nella tua rete;</li>
@@ -153,14 +135,9 @@ body {
               <li class="lead"> Organizza una raccolta alimentare e dona il ricavato ad una delle associazioni che lo possono distribuire; </li>
               <li class="lead"> Spiega ai tuoi colleghi in pausa pranzo perché non stai mangiando e discuti con loro del tema;
                 <li class="lead"> Organizza una “cena a digiuno” per coinvolgere amici, familiari, vicini di casa...e chiunque abbia interesse ad attivarsi con ulteriori azioni a favore di migranti e rifugiati; </li>
-                <li class="lead"> Firma <a href=https://tinyurl.com/y86lbey4>l'Iniziativa dei Cittadini Europei "Welcoming Europe"</a>, per un'Europa che accoglie;</li>
-                <li class="lead"> La giornata del 28 fatti una foto davanti ad un piatto vuoto e postala sui social con l’hashtag #CiPassaLaFame ripubblicando l’appello e se vuoi raccontando anche i motivi che ti hanno spinto ad aderire. Puoi impostare la tua copertina su Facebook con il nostro logo scaricandola <a href=https://raw.githubusercontent.com/ondata/cipassalafame/master/loghi/facebook.png>qui</a></li>
-              </p>
+                <li class="lead"> Firma <a href="https://tinyurl.com/y86lbey4">l'Iniziativa dei Cittadini Europei "Welcoming Europe"</a>, per un'Europa che accoglie;</li>
+                <li class="lead"> La giornata del 28 fatti una foto davanti ad un piatto vuoto e postala sui social con l’hashtag #CiPassaLaFame ripubblicando l’appello e se vuoi raccontando anche i motivi che ti hanno spinto ad aderire. Puoi impostare la tua copertina su Facebook con il nostro logo scaricandola <a href="https://raw.githubusercontent.com/ondata/cipassalafame/master/loghi/facebook.png">qui</a></li>
 
-            </div>
-        </div>
-      </section>
-    </head>
     <section class="content-section" id="chistapartecipando">
       <div class="container">
     <div class="container text-center">
@@ -238,7 +215,7 @@ body {
       <div class="container">
         <div class="row">
           <div class="col-lg-10 mx-auto">
-            <h2 style="text-align:center">Chi Siamo</h2>
+            <h2>Chi Siamo</h2>
             <h4>Attivisti:</h4>
             <p class="lead mb-5">Martina Cera, Donata Columbro, Claudia Vago, Claudio Riccio, Giulio Cocchini.</p>
             <h4>Sito e mappa:</h4>
@@ -285,15 +262,11 @@ body {
     </a>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="sito2/vendor/jquery/jquery.min.js"></script>
-    <script src="sito2/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="sito2/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="sito2/js/stylish-portfolio.min.js"></script>
-
-  </body>
-
-  </html>
+    <script src="js/stylish-portfolio.min.js"></script>

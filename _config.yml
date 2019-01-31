@@ -1,0 +1,58 @@
+#blog logo
+logo:
+
+# blog cover
+cover:
+
+name: CiPassaLaFame
+author:
+author_image:
+
+paginate:	5
+
+url: # the base hostname & protocol for your site
+baseurl:
+#used to display twitter cards
+twitter_handle:
+
+#fill in disqus shortname to use disqus
+disqus:
+
+google_analytics:
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:
+    desc: Follow me on Twitter
+    share_url: http://twitter.com/share
+    share_title:
+    share_link:
+
+  - icon:	telegram
+    url:	https://t.me/
+    desc: Follow me on Telegram
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	facebook
+    url:	https://www.facebook.com/
+    desc: Connect with me in Facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title:
+    share_link:
+
+  - icon:	instagram
+    url:	https://www.instagram.com/
+    desc: Follow me on Instagram
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	github
+    url:	https://github.com/
+    desc:	Fork me on Github
+    share_url:
+    share_title:
+    share_link:
