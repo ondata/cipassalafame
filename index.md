@@ -3,39 +3,6 @@ title: Home Page
 layout: default
 ---
 
-  <!-- Navigation -->
-  <a class="menu-toggle rounded" href="#">
-    <i class="fas fa-bars"></i>
-  </a>
-  <nav id="sidebar-wrapper">
-    <ul class="sidebar-nav">
-      <li class="sidebar-brand">
-        <a class="js-scroll-trigger" href="#page-top"></a>
-      </li>
-      <li class="sidebar-nav-item">
-        <a class="js-scroll-trigger" href="#page-top">Home</a>
-      </li>
-      <li class="sidebar-nav-item">
-        <a class="js-scroll-trigger" href="#about">L'iniziativa</a>
-      </li>
-      <li class="sidebar-nav-item">
-        <a class="js-scroll-trigger" href="#istruzioni">Come partecipare</a>
-      </li>
-      <li class="sidebar-nav-item">
-        <a class="js-scroll-trigger" href="#map">Mappa</a>
-      </li>
-      <li class="sidebar-nav-item">
-        <a class="js-scroll-trigger" href="#chisiamo">Chi Siamo</a>
-      </li>
-      <!--<li class="sidebar-nav-item">
-        <a class="js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSeMUwlw8uZDP7_-Y0bVVswQl__tBd6uUujWbqnErYReWL3vYQ/viewform">Registrati!</a>
-      </li>-->
-      <li class="sidebar-nav-item">
-        <a class="js-scroll-trigger" href="mailto:cipassalafame@gmail.com">Contatti</a>
-      </li>
-    </ul>
-  </nav>
-
   <!-- About -->
   <section class="content-section bg-light" id="about">
     <div class="container text-center">
