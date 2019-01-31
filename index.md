@@ -68,9 +68,9 @@ body {
       <li class="sidebar-nav-item">
         <a class="js-scroll-trigger" href="#chisiamo">Chi Siamo</a>
       </li>
-      <li class="sidebar-nav-item">
+      <!--<li class="sidebar-nav-item">
         <a class="js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLSeMUwlw8uZDP7_-Y0bVVswQl__tBd6uUujWbqnErYReWL3vYQ/viewform">Registrati!</a>
-      </li>
+      </li>-->
       <li class="sidebar-nav-item">
         <a class="js-scroll-trigger" href="mailto:cipassalafame@gmail.com">Contatti</a>
       </li>
@@ -141,7 +141,7 @@ body {
     <section class="content-section" id="chistapartecipando">
       <div class="container">
     <div class="container text-center">
-    <h2>In quanti stanno partecipando?</h2>
+    <h2>In quanti hanno partecipato</h2>
     </div>
     <iframe width="100%" height="500px" src="https://datastudio.google.com/embed/reporting/163cpfvwmMQFKIzrVxvpfsVBinqLHqOFZ/page/Actg" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
@@ -202,13 +202,14 @@ body {
         </div>
       </section>
     -->
-    <!-- Call to Action -->
+    <!-- Call to Action 
     <section class="content-section bg-primary text-white">
       <div class="container text-center">
         <h2 class="mb-4">Fai sapere che aderisci anche tu</h2>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMUwlw8uZDP7_-Y0bVVswQl__tBd6uUujWbqnErYReWL3vYQ/viewform" class="btn btn-xl btn-light mr-4">Registrati qui!</a>
       </div>
     </section>
+  -->
 
     <!-- Chi Siamo -->
     <section class="content-section bg-light" id="chisiamo">
@@ -219,7 +220,7 @@ body {
             <h4>Attivisti:</h4>
             <p class="lead mb-5">Martina Cera, Donata Columbro, Claudia Vago, Claudio Riccio, Giulio Cocchini.</p>
             <h4>Sito e mappa:</h4>
-            <p class="lead mb-5">Andrea Borruso, Matteo Tempestini, Alessandro Rizzo.</p>
+            <p class="lead mb-5">Associazione onData, Matteo Tempestini, Alessandro Rizzo.</p>
             <h4>Primi aderenti:</h4>
             <p class="lead mb-5">Daniele Biella (giornalista), Riccardo Bonacina (Vita non profit), Igiaba Scego (scrittrice), Fabio Geda (scrittore), Sara Consolato (attivista), Francesco Malvolta (fotoreporter), Ilaria Roberta Sesana (giornalista), Paolo Di Paolo (scrittore), Dino Amenduni (comunicatore politico), Giulio Cavalli (giornalista), Violetta Bellocchio (scrittrice), Barbara Antonelli (Responsabile Comunicazione ActionAid), Raffaella Maria Cosentino (Giornalista), John Mpaliza (attivista), Marina Petrillo (Giornalista).</p>
             <h4>Organizzazioni:</h4>
