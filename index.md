@@ -42,15 +42,6 @@ layout: default
     </div>
   </section>
 
-  <!-- Mappa -->
-  <section class="content-section bg-light" id="map">
-    <div class="container text-center">
-      <h2 class="mx-auto mb-5">La mappa delle adesioni</h2>
-    </div>
-    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/cipassalafame-a-digiuno-per-i-diritti-dei-migranti_286749?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/cipassalafame-a-digiuno-per-i-diritti-dei-migranti_286749">Visualizza a schermo intero</a></p>
-
-  </section>
-
   <section class="content-section bg-light" id="istruzioni">
     <div class="container text-center">
       <div class="row">
@@ -68,8 +59,18 @@ layout: default
                 <li class="lead"> Organizza una “cena a digiuno” per coinvolgere amici, familiari, vicini di casa...e chiunque abbia interesse ad attivarsi con ulteriori azioni a favore di migranti e rifugiati; </li>
                 <li class="lead"> Firma <a href="https://tinyurl.com/y86lbey4">l'Iniziativa dei Cittadini Europei "Welcoming Europe"</a>, per un'Europa che accoglie;</li>
                 <li class="lead"> La giornata del 28 fatti una foto davanti ad un piatto vuoto e postala sui social con l'hashtag #CiPassaLaFame ripubblicando l'appello e se vuoi raccontando anche i motivi che ti hanno spinto ad aderire. Puoi impostare la tua copertina su Facebook con il nostro logo scaricandola <a href="https://raw.githubusercontent.com/ondata/cipassalafame/master/loghi/facebook.png">qui</a></li>
+  </section>
 
-    <section class="content-section" id="chistapartecipando">
+  <!-- Mappa -->
+  <section class="content-section bg-light" id="map">
+    <div class="container text-center">
+      <h2 class="mx-auto mb-5">La mappa delle adesioni</h2>
+    </div>
+    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/cipassalafame-a-digiuno-per-i-diritti-dei-migranti_286749?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/cipassalafame-a-digiuno-per-i-diritti-dei-migranti_286749">Visualizza a schermo intero</a></p>
+
+  </section>
+  
+  <section class="content-section" id="chistapartecipando">
       <div class="container">
     <div class="container text-center">
     <h2>In quanti hanno partecipato</h2>
