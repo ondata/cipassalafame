@@ -8,7 +8,7 @@ layout: default
     <div class="container text-center">
       <div class="row">
         <div class="col-lg-10 mx-auto">
-          <h2>Tante sono le cose che possiamo fare quando #cipassalafame:</h2>
+          <h2>Tante sono le cose che possiamo fare - il 28 febbraio - quando #cipassalafame:</h2>
           <ul>
             <li>donare a un'associazione che favorisce l'accoglienza dei migranti;</li>
             <li>fare volontariato con realtà che favoriscono l'integrazione dei migranti;</li>
