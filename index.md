@@ -55,7 +55,8 @@ layout: default
     <div class="container text-center">
       <div class="row">
         <div class="col-lg-10 mx-auto" id="partecipare">
-        <h1 id="gennaio">Il 28 gennaio 219 di #cipassalafame</h1>
+        <h1 id="gennaio">Il 28 gennaio 2019 di #cipassalafame (l'inizio)</h1>
+        <br>
           <h2>Come partecipare</h2>
           <p class="lead mb-7" >
             <ul>
