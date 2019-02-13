@@ -3,6 +3,25 @@ title: Home Page
 layout: default
 ---
 
+  <!-- In corso -->
+  <section class="content-section bg-light" id="inCorso">
+    <div class="container text-center">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <h2>Tante sono le cose che possiamo fare quando #cipassalafame:</h2>
+          <ul>
+            <li>donare a un'associazione che favorisce l'accoglienza dei migranti;</li>
+            <li>fare volontariato con realtà che favoriscono l'integrazione dei migranti;</li>
+            <li>condividere contenuti online sul tema, perché se ne parli e si discuta in maniera costruttiva;</li>
+            <li>modificare la mia immagine del profilo/copertina con <a href="./loghi/facebook.png" target="_blank">quella ufficiale di #cipassalafame</a> per favorire la diffusione dell'iniziativa;</li>
+            <li>digiunare;</li>
+            <li>organizzare una serata di confronto e dibattito con lettura di un libro o visione di un documentario in tema (anche semplicemente nella tua famiglia).</li>
+          </ul>
+          <p>Raccontaci cosa farai con un post e l'hashtag <strong>#cipassalafame</strong></p>
+        </div>
+      </div>
+    </div>
+  </section>
   <!-- About -->
   <section class="content-section bg-light" id="about">
     <div class="container text-center">
@@ -36,17 +55,18 @@ layout: default
     <div class="container text-center">
       <div class="row">
         <div class="col-lg-10 mx-auto" id="partecipare">
+        <h1 id="gennaio">Il 28 gennaio 219 di #cipassalafame</h1>
           <h2>Come partecipare</h2>
           <p class="lead mb-7" >
             <ul>
               <li class="lead">Segna "partecipa" all'<b><a target="_blank" href="https://www.facebook.com/events/345025692894118/">evento su Facebook</a></b> e condividilo nella tua rete;</li>
-              <li class="lead"> Aderisci all’evento compilando <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMUwlw8uZDP7_-Y0bVVswQl__tBd6uUujWbqnErYReWL3vYQ/viewform">questo form</a> e aiutaci a promuoverlo tra i tuoi conoscenti e contatti;</li>
+              <li class="lead"> Aderisci all'evento compilando <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMUwlw8uZDP7_-Y0bVVswQl__tBd6uUujWbqnErYReWL3vYQ/viewform">questo form</a> e aiutaci a promuoverlo tra i tuoi conoscenti e contatti;</li>
               <li class="lead"> Dona quello che hai risparmiato non mangiando ad una delle organizzazioni che si occupano di salvataggio in mare dei migranti;</li>
               <li class="lead"> Organizza una raccolta alimentare e dona il ricavato ad una delle associazioni che lo possono distribuire; </li>
               <li class="lead"> Spiega ai tuoi colleghi in pausa pranzo perché non stai mangiando e discuti con loro del tema;
                 <li class="lead"> Organizza una “cena a digiuno” per coinvolgere amici, familiari, vicini di casa...e chiunque abbia interesse ad attivarsi con ulteriori azioni a favore di migranti e rifugiati; </li>
                 <li class="lead"> Firma <a href="https://tinyurl.com/y86lbey4">l'Iniziativa dei Cittadini Europei "Welcoming Europe"</a>, per un'Europa che accoglie;</li>
-                <li class="lead"> La giornata del 28 fatti una foto davanti ad un piatto vuoto e postala sui social con l’hashtag #CiPassaLaFame ripubblicando l’appello e se vuoi raccontando anche i motivi che ti hanno spinto ad aderire. Puoi impostare la tua copertina su Facebook con il nostro logo scaricandola <a href="https://raw.githubusercontent.com/ondata/cipassalafame/master/loghi/facebook.png">qui</a></li>
+                <li class="lead"> La giornata del 28 fatti una foto davanti ad un piatto vuoto e postala sui social con l'hashtag #CiPassaLaFame ripubblicando l'appello e se vuoi raccontando anche i motivi che ti hanno spinto ad aderire. Puoi impostare la tua copertina su Facebook con il nostro logo scaricandola <a href="https://raw.githubusercontent.com/ondata/cipassalafame/master/loghi/facebook.png">qui</a></li>
 
     <section class="content-section" id="chistapartecipando">
       <div class="container">
