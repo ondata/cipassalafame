@@ -393,3 +393,7 @@ a:hover, a:focus, a:active {
 #inCorso p {
   text-align: left !important;  
 }
+
+#inCorso {
+  background-color: #FFEEBC !important;
+}
