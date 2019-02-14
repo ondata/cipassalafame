@@ -8,15 +8,20 @@ layout: default
     <div class="container text-center">
       <div class="row">
         <div class="col-lg-10 mx-auto">
-          <h2>Tante sono le cose che possiamo fare quando #cipassalafame:</h2>
+          <h2>Il 28 del mese</h2>
+          <p>#cipassalafame è un'iniziativa collettiva nata dal bisogno di attivarci, come cittadini, come essere umani, dedicando parte del nostro tempo a una causa per noi vitale, quella della libertà di movimento e del diritto all'asilo.
+          <br>Vogliamo continuare a mantenere attiva la nostra indignazione ma anche accompagnarla ad azioni concrete, come è stato il digiuno del 28 gennaio.
+          <br>Ogni 28 del mese torniamo a unirci in rete e dal vivo con questo obiettivo, non solo o non per forza con il digiuno.
+          </p>
+          <h3>Tante sono le cose che possiamo fare quando #cipassalafame:</h3>
           <h3>(il 28 febbraio 2019)</h3>
           <ul>
             <li>donare a <a href="https://thesubmarine.it/2017/02/06/quali-sono-le-associazioni-che-aiutano-i-migranti-in-europa/" target="_blank">un'associazione che favorisce l'accoglienza dei migranti</a>;</li>
             <li>fare volontariato con realtà che favoriscono l'integrazione dei migranti;</li>
             <li>condividere contenuti online sul tema, perché se ne parli e si discuta in maniera costruttiva;</li>
-            <li>modificare la mia immagine del profilo/copertina con <a href="./loghi/facebook.png" target="_blank">quella ufficiale di #cipassalafame</a> per favorire la diffusione dell'iniziativa;</li>
+            <li>modificare la tua immagine del profilo/copertina con <a href="./loghi/facebook.png" target="_blank">quella ufficiale di #cipassalafame</a> per favorire la diffusione dell'iniziativa;</li>
             <li>digiunare;</li>
-            <li>organizzare una serata di confronto e dibattito con lettura di un libro o visione di un documentario in tema (anche semplicemente nella tua famiglia).</li>
+            <li>organizzare una serata di confronto e dibattito con lettura di un libro o visione di un documentario in tema (anche semplicemente nella tua famiglia). Per un elenco in continuo aggiornamento puoi sfogliare <a href="https://www.instagram.com/staffettaumanitaria/" target="_blank">l'account Instagram di StaffettaUmanitaria</a>.</li>
           </ul>
           <p><strong>Racconta cosa farai con un post sui social e l'hashtag #cipassalafame : la condivisione aiuterà altri a seguire il tuo esempio!</strong></p>
         </div>
