@@ -14,7 +14,6 @@ layout: default
           <br>Ogni 28 del mese torniamo a unirci in rete e dal vivo con questo obiettivo, non solo o non per forza con il digiuno.
           </p>
           <h3>Tante sono le cose che possiamo fare quando #cipassalafame:</h3>
-          <h3>(il 28 febbraio 2019)</h3>
           <ul>
             <li>donare a <a href="https://thesubmarine.it/2017/02/06/quali-sono-le-associazioni-che-aiutano-i-migranti-in-europa/" target="_blank">un'associazione che favorisce l'accoglienza dei migranti</a>;</li>
             <li>fare volontariato con realtà che favoriscono l'integrazione dei migranti;</li>
