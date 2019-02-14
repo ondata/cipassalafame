@@ -11,14 +11,14 @@ layout: default
           <h2>Tante sono le cose che possiamo fare quando #cipassalafame:</h2>
           <h3>(il 28 febbraio 2019)</h3>
           <ul>
-            <li>donare a un'associazione che favorisce l'accoglienza dei migranti;</li>
+            <li>donare a <a href="https://thesubmarine.it/2017/02/06/quali-sono-le-associazioni-che-aiutano-i-migranti-in-europa/" target="_blank">un'associazione che favorisce l'accoglienza dei migranti</a>;</li>
             <li>fare volontariato con realtà che favoriscono l'integrazione dei migranti;</li>
             <li>condividere contenuti online sul tema, perché se ne parli e si discuta in maniera costruttiva;</li>
             <li>modificare la mia immagine del profilo/copertina con <a href="./loghi/facebook.png" target="_blank">quella ufficiale di #cipassalafame</a> per favorire la diffusione dell'iniziativa;</li>
             <li>digiunare;</li>
             <li>organizzare una serata di confronto e dibattito con lettura di un libro o visione di un documentario in tema (anche semplicemente nella tua famiglia).</li>
           </ul>
-          <p>Raccontaci cosa farai con un post e l'hashtag <strong>#cipassalafame</strong></p>
+          <p><strong>Racconta cosa farai con un post sui social e l'hashtag #cipassalafame : la condivisione aiuterà altri a seguire il tuo esempio!</strong></p>
         </div>
       </div>
     </div>
