@@ -409,6 +409,7 @@ a:hover, a:focus, a:active {
 #inCorso a {
   
   color: white !important;
+  text-decoration: underline !important;
 }
 
 #inCorso {
