@@ -396,7 +396,7 @@ a:hover, a:focus, a:active {
 
 #inCorso {
  /* background-color: #FFEEBC !important; */
-  background-image: src("../img/ivana-cajina-638159-unsplash.jpg") !important;
+  background-image: src("/img/ivana-cajina-638159-unsplash.jpg") !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
 }
