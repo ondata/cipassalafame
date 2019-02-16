@@ -395,5 +395,8 @@ a:hover, a:focus, a:active {
 }
 
 #inCorso {
-  background-color: #FFEEBC !important;
+ /* background-color: #FFEEBC !important; */
+  background-image: src("../img/ivana-cajina-638159-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
