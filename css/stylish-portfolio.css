@@ -394,6 +394,7 @@ a:hover, a:focus, a:active {
 #inCorso p {
   text-align: left !important;
   color: white !important;
+  font-size: 1.25rem !important;
 }
 
 #inCorso h2 {
@@ -407,7 +408,7 @@ a:hover, a:focus, a:active {
 }
 
 #inCorso a {
-  
+  font-size: 1.25rem !important;
   color: white !important;
   text-decoration: underline !important;
 }
