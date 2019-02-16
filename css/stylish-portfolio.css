@@ -390,28 +390,33 @@ a:hover, a:focus, a:active {
   text-align: left !important;
   color: white !important;
   font-size: 1.25rem !important;
+  font-weight: 300 !important;
 }
 
 #inCorso p {
   text-align: left !important;
   color: white !important;
   font-size: 1.25rem !important;
+  font-weight: 300 !important;
 }
 
 #inCorso h2 {
  
   color: white !important;
+  font-weight: 300 !important;
 }
 
 #inCorso h3 {
   
   color: white !important;
+  font-weight: 300 !important;
 }
 
 #inCorso a {
   font-size: 1.25rem !important;
   color: white !important;
   text-decoration: underline !important;
+  font-weight: 300 !important;
 }
 
 #inCorso {
@@ -419,4 +424,5 @@ a:hover, a:focus, a:active {
   background-image: url("../img/ivana-cajina-638159-unsplash.jpg") !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
+  
 }
