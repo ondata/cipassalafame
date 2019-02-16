@@ -387,11 +387,13 @@ a:hover, a:focus, a:active {
 }
 
 #inCorso li {
-  text-align: left !important;  
+  text-align: left !important;
+  color: white;
 }
 
 #inCorso p {
-  text-align: left !important;  
+  text-align: left !important;
+  color: white;
 }
 
 #inCorso {
