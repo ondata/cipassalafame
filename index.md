@@ -47,7 +47,7 @@ layout: default
       </div>
     </div>
   </section>
-
+<!--
   <section class="content-section bg-light" id="istruzioni">
     <div class="container text-center">
       <div class="row">
@@ -65,7 +65,7 @@ layout: default
                 <li class="lead"> Organizza una “cena a digiuno” per coinvolgere amici, familiari, vicini di casa...e chiunque abbia interesse ad attivarsi con ulteriori azioni a favore di migranti e rifugiati; </li>
                 <li class="lead"> Firma <a href="https://tinyurl.com/y86lbey4">l'Iniziativa dei Cittadini Europei "Welcoming Europe"</a>, per un'Europa che accoglie;</li>
                 <li class="lead"> La giornata del 28 fatti una foto davanti ad un piatto vuoto e postala sui social con l'hashtag #CiPassaLaFame ripubblicando l'appello e se vuoi raccontando anche i motivi che ti hanno spinto ad aderire. Puoi impostare la tua copertina su Facebook con il nostro logo scaricandola <a href="https://raw.githubusercontent.com/ondata/cipassalafame/master/loghi/facebook.png">qui</a></li>
-  </section>
+  </section> -->
 
   <!-- Mappa -->
   <section class="content-section bg-light" id="map">
